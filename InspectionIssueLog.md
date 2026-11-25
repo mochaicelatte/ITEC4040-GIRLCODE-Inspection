@@ -4,7 +4,7 @@
 **Inspecting Team:** GirlCode  
 **Document Inspected:** NewGrant Draft SRS (8.zip)  
 **Inspection Date:** November 23, 2026  
-**Status:** Inspection meeting complete; issue log under review.
+**Status:** Inspection meeting complete; issue log prepared for submission.
 
 ## 1. Purpose
 
@@ -39,7 +39,7 @@ The Issue Type column describes the concern raised during the inspection, such a
 - **Major:** A concern that could change what the system does, who can approve an action, what data is kept, or how a requirement is tested.
 - **Minor:** A concern about wording, organization, or documentation where the reviewers did not identify a significant effect on system behavior.
 
-The log contains 8 proposed Major ratings and 7 proposed Minor ratings. These ratings were assigned after the meeting and are pending team review. They describe the potential impact of each concern, not whether it is a confirmed defect.
+After the meeting, the 15 concerns were rated by potential impact: 8 Major and 7 Minor. A severity rating does not mean the concern is a confirmed defect.
 
 ## 5. Inspection Notes
 
@@ -49,4 +49,4 @@ The log contains 8 proposed Major ratings and 7 proposed Minor ratings. These ra
 
 ## 6. Final Status
 
-The November 23 inspection ended in conditional acceptance of the NewGrant draft SRS. The issue log records 15 concerns. The proposed ratings (8 Major and 7 Minor) are pending team review.
+The November 23 inspection ended in conditional acceptance of the NewGrant draft SRS. This log records the 15 concerns raised during the inspection.
