@@ -84,7 +84,7 @@ The inspection findings were consolidated into 15 preliminary issue entries in t
 
 | Metric | Result |
 |---|---|
-| Total issues identified | 15 preliminary findings |
+| Total preliminary findings | 15 preliminary findings |
 | Major issues | 8 (provisional severity) |
 | Minor issues | 7 (provisional severity) |
 | Sections inspected | 1, 2, 3, 4.3, 5.2, 6.5, Appendix B, Appendix D |
