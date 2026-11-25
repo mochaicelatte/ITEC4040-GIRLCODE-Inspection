@@ -78,37 +78,50 @@ The Recorder maintained inspection notes, while the Moderator requested clarific
 
 The inspection concluded with a review of the findings, a team discussion of the document's overall quality, agreement on an inspection recommendation, and individual lessons learned.
 
-The detailed findings will be consolidated in the Inspection Issue Log.
+The inspection findings were consolidated into 15 preliminary issue entries in the Inspection Issue Log. Each entry identifies the relevant SRS location, issue type, description, proposed severity, and status.
 
 ## 6. Inspection Results
 
 | Metric | Result |
 |---|---|
-| Total issues identified | Approximately 15 preliminary findings; final count pending Issue Log review |
-| Major issues | Pending final classification |
-| Minor issues | Pending final classification |
+| Total issues identified | 15 preliminary findings |
+| Major issues | 8 (provisional severity) |
+| Minor issues | 7 (provisional severity) |
 | Sections inspected | 1, 2, 3, 4.3, 5.2, 6.5, Appendix B, Appendix D |
 | Actual meeting duration | To be confirmed from Zoom recording |
 
-The inspection identified potential inconsistencies involving eligibility verification, application withdrawal, HR/SIS integration, late-application approval, and approver reassignment. Additional observations concerned requirement traceability, interface assumptions, and clarity.
+The inspection identified 15 preliminary concerns, including 8 classified as Major and 7 as Minor based on their potential impact. These severity classifications do not establish that every concern is a confirmed defect.
 
-Several findings were discussed across multiple sections and must be consolidated to avoid duplication.
+The main findings concerned:
 
-Detailed findings are recorded in the [Inspection Issue Log](InspectionIssueLog.md).
+- Eligibility verification and application submission consistency (INS-10).
+- Withdrawal restrictions and conflicting business rules (INS-12).
+- HR/SIS integration inconsistencies (INS-14).
+- Late-application approval authority and business-rule traceability (INS-08 and INS-09).
+- Application editing and version-specific approval (INS-11).
+- Approver reassignment authority (INS-13).
+- Authentication, deletion, interface assumptions, and documentation clarity (remaining issue entries).
+
+Some findings were raised across multiple SRS sections and were consolidated into individual entries to avoid duplication.
+
+The detailed descriptions, classifications, and preliminary statuses are recorded in the [Inspection Issue Log](InspectionIssueLog.md).
+
 
 ## 7. Inspection Outcome and Recommendation
 
 **Inspection Outcome: Conditional Acceptance**
 
-Following the inspection, GirlCode agreed to recommend conditional acceptance of the NewGrant Draft SRS, subject to correction and verification of the identified requirements issues.
+Based on the formal inspection conducted on November 23, 2026, the GirlCode inspection team recommends **conditional acceptance** of the NewGrant Draft SRS.
 
-The team acknowledged that the SRS is generally well structured and provides detailed functional use cases, supporting evidence, and system documentation.
+The SRS is generally well structured and provides detailed functional use cases, supporting stakeholder evidence, and relevant system documentation. However, the inspection identified several requirements requiring clarification, correction, or further validation to ensure completeness, consistency, and correctness.
 
-However, the inspection identified potential inconsistencies involving eligibility verification, application withdrawal, system interfaces, and business rules. These issues require clarification to ensure that the requirements are consistent and support reliable implementation and testing.
+A total of **15 preliminary findings** were documented in the Inspection Issue Log, including **8 Major and 7 Minor concerns**, classified according to their potential impact. The primary concerns involve eligibility verification, application withdrawal, late-application approval authority, approver reassignment, software interface dependencies, and inconsistencies between functional requirements and business rules.
 
-The team determined that the document could be accepted following appropriate revisions and verification of the recorded findings, without automatically requiring a complete re-inspection.
+The severity classifications reflect the potential impact of the findings and do not necessarily indicate confirmed defects. Further clarification and stakeholder validation are recommended to resolve ambiguities and verify assumptions.
 
-The final Issue Log provides the detailed basis for the recommendation.
+The inspection team concluded that the identified concerns could be addressed through appropriate revisions and verification without requiring a complete re-inspection at this stage. Therefore, **conditional acceptance is recommended, subject to satisfactory resolution of the documented findings**.
+
+Detailed findings, requirement references, severity classifications, and statuses are provided in the accompanying [Inspection Issue Log](InspectionIssueLog.md).
 
 ## 8. Follow-up Actions
 
