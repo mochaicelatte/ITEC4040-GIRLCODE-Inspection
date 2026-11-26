@@ -10,8 +10,8 @@
 | Inspection Date | November 23, 2026 |
 | Scheduled Time | 2:00–4:00 PM EST |
 | Meeting Format | Online (Zoom) |
-| Inspection Status | Inspection Completed — Reporting in Progress |
-| Inspection Recording | Available; link to be added |
+| Inspection Status | Inspection Completed — Reports Finalized |
+| Inspection Recording | Recording submitted separately |
 
 ## 2. Inspection Participants and Roles
 
@@ -88,7 +88,7 @@ The inspection findings were consolidated into 15 preliminary issue entries in t
 | Major issues | 8 (provisional severity) |
 | Minor issues | 7 (provisional severity) |
 | Sections inspected | 1, 2, 3, 4.3, 5.2, 6.5, Appendix B, Appendix D |
-| Actual meeting duration | To be confirmed from Zoom recording |
+| Actual meeting duration | 1:48:13 |
 
 The inspection identified 15 preliminary concerns, including 8 classified as Major and 7 as Minor based on their potential impact. These severity classifications do not establish that every concern is a confirmed defect.
 
